@@ -1,2 +1,4 @@
 <!--pages/home/home.wxml-->
 <text>Hello World</text>
+<button size='mini' open-type='getUserInfo' bindgetuserinfo='handleGetUserInfo' >获取用户信息</button>
+

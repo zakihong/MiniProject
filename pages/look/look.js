@@ -1,4 +1,4 @@
-// pages/home/home.js
+// pages/look/look.js
 Page({
 
   /**
@@ -62,8 +62,5 @@ Page({
    */
   onShareAppMessage: function () {
 
-  },
-  handleGetUserInfo(event){
-    console.log(event);
   }
 })
